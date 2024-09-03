@@ -8,13 +8,7 @@
 
 ## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+1. Scaling up control plane on openshift cluster (IPI)
 
 ## Features
 
