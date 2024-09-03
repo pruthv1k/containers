@@ -4,7 +4,7 @@
 
 ## Description
 
-**Features tested and implemented on Google Kubernetes and Red Hat Openshift** is a [brief description of your project]. It aims to [main goal or functionality of the project]. This project is designed to [additional details about the project’s purpose, target audience, or unique features].
+**Features tested and implemented on Google Kubernetes and Red Hat Openshift** 
 
 ## Table of Contents
 
